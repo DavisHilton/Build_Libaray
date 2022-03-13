@@ -12,6 +12,9 @@ Tools
 
 # Learn Intermediate JavaScript: Build a Library
 
+# Build a Library Video Walk Through
+https://www.youtube.com/watch?v=_7HStd1Vhlc
+
 ## Brief
 
 Objective
